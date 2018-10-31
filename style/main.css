@@ -387,7 +387,7 @@ ul.sub-menu {
 
 #footer {
   padding-bottom: 10px;
-  background-image: url(../resources/image/home/footer.png);
+  background-image: url(../resources/image/home/footer-angle.png);
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: contain;
@@ -533,7 +533,7 @@ ul.sub-menu {
 *******Home Page******
 **************************/
 #home-slider {
-  background: url(../resources/image/home/slider-bg.png) 0 100% repeat-x;
+  background: url(../resources/image/home/slidernuevo.png) 0 100% repeat-x;
   position: relative;
 }
 
@@ -547,6 +547,7 @@ ul.sub-menu {
   top: 50px;
   left: 0;
   width: 450px;
+  color: white;
 }
 
 .animate-in .slide-text {
@@ -558,6 +559,7 @@ ul.sub-menu {
   position: absolute;
   right: 0;
   bottom: 0;
+  top: 60px;
 }
 
 .animate-in .slider-hill {
@@ -613,10 +615,12 @@ ul.sub-menu {
 #home-slider h1{
   margin-top: 100px;
   margin-bottom: 25px;
+  color: white;
 }
 
 #home-slider .btn-common {
   margin-top: 20px;
+  color: white;
 }
 
 #home-slider .preloader {
