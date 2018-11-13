@@ -567,6 +567,18 @@ ul.sub-menu {
   animation: bounceInDown 1000ms ease-in-out 200ms both;
 }
 
+#home-slider .slider-codigos {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 100px;
+}
+
+.animate-in .slider-codigos {
+  -webkit-animation: bounceInDown 1000ms ease-in-out 200ms both;
+  animation: bounceInDown 1000ms ease-in-out 200ms both;
+}
+
 #home-slider .slider-house {
   position: absolute;
   right: 110px;
