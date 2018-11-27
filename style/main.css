@@ -2739,3 +2739,20 @@ span.stButton_gradient,
   border-radius: 100%;
   margin: 10px 0;
 }
+.w3-container{
+  position: relative;
+  background-color: #dddddd;
+  color: black;
+  margin-bottom: 20px
+}
+.title-text{
+  color: #F26525;
+  text-align: center;
+}
+#columnas{
+   column-count:4;
+   column-gap:20px;
+   column-rule:none;
+   text-align: center;
+   margin-left: 250px;
+}
