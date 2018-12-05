@@ -2756,3 +2756,20 @@ span.stButton_gradient,
    text-align: center;
    margin-left: 250px;
 }
+#columnasbs{
+   column-count:4;
+   column-gap:2px;
+   column-rule:none;
+   text-align: center;
+   margin-left: 400px;
+}
+.textohtml{
+margin:80px;
+margin-top: -1px
+}
+#dondemedocumento{
+  margin-top: -60px;
+}
+.alert-info{
+  text-align: center;
+}
