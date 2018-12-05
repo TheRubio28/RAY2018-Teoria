@@ -2773,3 +2773,27 @@ margin-top: -1px
 .alert-info{
   text-align: center;
 }
+.espacioblanco{
+ margin-top: 20px; 
+}
+#modal{
+  margin: 10px;
+  margin-right: 10px
+}
+.success{
+  margin-left:280px;
+  margin-right: 280px;
+  margin-top: 20px;
+}
+.div1{
+  float: left;
+  width:33.3%
+}
+.div2{
+  position: center;
+  width:33.3%;
+}
+.div3{
+  float: right;
+  width:33.3%;
+}
